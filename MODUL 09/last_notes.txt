@@ -1,0 +1,3 @@
+Ini isi file last_notes.txt
+jika kamu membaca tulisan ini maka file sudah otomatis terbaca,
+selamat!
